@@ -1,1 +1,1 @@
-# authkit-website
+# AuthKit Website
