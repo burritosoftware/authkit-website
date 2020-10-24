@@ -1,1 +1,1 @@
-# AuthKit Website
+![AuthKit Website](https://socialify.git.ci/burritosoftware/authkit-website/image?description=1&descriptionEditable=The%20main%20website%20for%20AuthKit.&logo=https%3A%2F%2Fcdn.discordapp.com%2Fattachments%2F558842854462717954%2F765807741183721472%2FAuthKit_Logo_NoPadding.png&pattern=Circuit%20Board&theme=Dark)
